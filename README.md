@@ -26,6 +26,7 @@ Here is a list of websites I use(d) when learning about modern web technologies:
 - [World Wide Web Consortium (W3C)](https://www.w3.org)
 - [CSS documentation and news](https://www.w3.org/Style/CSS/)
 - [CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
+- [Lizenzen einfach erklärt](https://tldrlegal.com/)
 
 ### Tutorials
 
